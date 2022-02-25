@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Login&amp;SignUp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_with_one_of_the_following_options">Login with one of the following options</string>
+    <string name="google">Google</string>
+    <string name="apple">Apple</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="log_in">Log in</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="hint">John Doe</string>
+</resources>
